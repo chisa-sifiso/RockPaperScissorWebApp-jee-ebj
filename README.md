@@ -19,3 +19,4 @@ Entities:
 GameSummary: Entity class representing game results stored in the database.
 Libraries:
 RockPaperScissorEJBModule: This includes the EJBModule.jar which contains the session beans and facades.
+Developed by Sifiso Vinjwa
